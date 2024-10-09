@@ -1,0 +1,5 @@
+https://docs.dbdocs.io/
+
+dbdocs login
+dbdocs build DDBarceloDataWarehouse.dbml (asegurarse de que este en la carpeta correcta)
+dbdocs password --set Axazure --project Barcelo_DataWarehouse
